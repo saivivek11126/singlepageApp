@@ -1,2 +1,3 @@
 # singlepageApp
-info
+my info
+this is personal information
